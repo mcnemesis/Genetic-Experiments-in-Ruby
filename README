@@ -1,0 +1,17 @@
+8******************************3
+GENETIC EXPERIMENTS IN RUBY
+8******************************3
+
+~~~ All Code is GPL Licenced and is totally Free! ~~~~
+
+A series of random experiments am making to explore Genetic Algorithms,
+their applications in machine learning, scheduling, knowledge-discovery, etc.
+
+I have picked Ruby as the language of choice in all these experiments for one
+reason:
+
+Ruby is beautiful to write, and it restores the fun / pleasure to to painful / hard problems :-)
+
+Feel free to fork this work, contribute and advise on improvements - am just a hobbyist learning
+this stuff on my own mostly lol
+
